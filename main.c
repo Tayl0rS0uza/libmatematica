@@ -3,7 +3,7 @@
 
 int main(){
 
-    float angulo = 1.5708; 
+    float angulo = 1.0472;   // 60 graus em radianos // 
 
     printf("O seno de um angulo de 90 graus eh: %.2f\n", calcular_seno(angulo));
     printf("O cosseno de um angulo de 90 graus eh: : %.2f\n", calcular_cosseno(angulo));
